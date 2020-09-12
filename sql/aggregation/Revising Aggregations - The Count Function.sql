@@ -1,0 +1,4 @@
+--github.com/immsunnyjha
+SELECT DISTINCT COUNT(NAME)
+    FROM CITY
+        WHERE POPULATION>100000;
